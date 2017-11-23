@@ -1,0 +1,4 @@
+clase holamundo
+
+	sub main param() retorna void
+		imprime "Hola mundo"

@@ -1,0 +1,11 @@
+clase variables
+
+	sub main param() retorna void
+		dim string algo = "hola"
+		imprimeString(algo)
+		
+	sub imprimeString param(string str) retorna void
+		imprime str
+		
+	sub getString param() retorna string
+		return "Hola"

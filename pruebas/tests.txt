@@ -1,0 +1,32 @@
+<identificador>:
+	'Debe iniciar con letra y los siguientes digitos alfanumericos pueden ser letras o numeros'
+
+<tipo>:
+	'Tipo de dato primitivo: str, int, bool, ...'
+	
+<valor>:
+	'<identificador> para variables o literales [enteros, flotantes, texto alfanumerico, booleanos]'
+
+<return>:
+	'return <valor>'
+
+
+
+Declaracion de clase:
+	'clase "nombre"'
+	
+Declaracion de imprimir:
+	'imprime <valor>'
+
+Declaracion de variables:
+	'<tipo> <identificador = nombre> [ = <valor> ]
+
+Declaracion de metodos:
+
+	'sub <identificador> param ([<tipo> <identificador> = nombre ,...]) [return <tipo>]'
+	
+Invocacion de metodos:
+	
+	'<identificador = nombre>([<valor>...])
+	
+
